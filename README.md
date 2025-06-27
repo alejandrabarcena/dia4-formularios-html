@@ -1,6 +1,6 @@
 # 🚀 Día 4 - Formularios en HTML con Bootstrap
 
-Este repositorio forma parte del reto diario del bootcamp fullstack. El objetivo del día fue construir un formulario profesional con HTML5, utilizando **Bootstrap 4** para el diseño visual, etiquetas semánticas correctas, validaciones HTML y estructura responsive.
+Este repositorio forma parte del reto diario del bootcamp Full Stack. El objetivo del día fue construir un formulario profesional con HTML5, utilizando **Bootstrap 4** para el diseño visual, etiquetas semánticas correctas, validaciones HTML y estructura responsive.
 
 ## 🎯 Objetivo
 
@@ -19,23 +19,20 @@ Replicar un formulario modelo aplicando:
 ![Vista previa del formulario](https://github.com/alejandrabarcena/dia4-formularios-html/blob/main/vista%20previa.png?raw=true)
 
 ## 🧰 Herramientas utilizadas
-- HTML5
-- CSS3 personalizado
-- [Bootstrap 4.6](https://getbootstrap.com/) para el diseño responsivo
-- Iconos emoji para experiencia visual
-- Git y GitHub para control de versiones y despliegue
-- GitHub Codespaces para desarrollo remoto
-- PowerShell y comandos CLI para creación desde terminal
+
+- HTML5 con estructura semántica 🧱  
+- CSS3 personalizado 🎨  
+- [Bootstrap 4.6](https://getbootstrap.com/) para el diseño responsivo 📱  
+- Emojis como íconos para mejorar la experiencia visual 💡  
+- Git y GitHub para control de versiones y despliegue 🚀  
+- GitHub Codespaces para desarrollo remoto en la nube ☁️  
+- PowerShell y comandos CLI para creación y manejo desde la terminal 🖥️  
+
+> Este proyecto fue desarrollado como parte del Bootcamp Full Stack, con enfoque en buenas prácticas de maquetación web y uso de frameworks front-end.
 
 ## 🖥️ Enlace en vivo
 
 🔗 [Ver formulario en GitHub Pages](https://alejandrabarcena.github.io/dia4-formularios-html/)
-
-## 📌 Detalles adicionales
-
-- Proyecto iniciado desde terminal (`New-Item`, `mkdir`)  
-- Manejo de ramas y conflictos con `git rebase`, `commit --amend`, y `push --force`  
-- Desarrollo en **Codespaces** para mejorar portabilidad y autonomía
 
 ## ✅ Estado
 
@@ -49,10 +46,3 @@ Replicar un formulario modelo aplicando:
 
 👩‍💻 Hecho con ❤️ por Alejandra Bárcena  
 🐾 Supervisado por Patsy, en modo siesta-pedorrita 💤
-
-
-```bash
-├── index.html
-├── style.css
-├── README.md
-└── img/
