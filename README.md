@@ -18,12 +18,12 @@ Replicar un formulario modelo aplicando:
 📸  
 ![Vista previa del formulario](https://github.com/alejandrabarcena/dia4-formularios-html/blob/main/vista%20previa.png?raw=true)
 
-## 🛠️ Herramientas utilizadas
-
+## 🧰 Herramientas utilizadas
 - HTML5
-- CSS3 (mínimo)
-- **Bootstrap 4**
-- Git y GitHub
+- CSS3 personalizado
+- [Bootstrap 4.6](https://getbootstrap.com/) para el diseño responsivo
+- Iconos emoji para experiencia visual
+- Git y GitHub para control de versiones y despliegue
 - GitHub Codespaces para desarrollo remoto
 - PowerShell y comandos CLI para creación desde terminal
 
