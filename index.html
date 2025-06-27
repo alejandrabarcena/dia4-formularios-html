@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Formulario de Pago</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <section class="payment-card">
+    <h1>💳 Formulario de Pago</h1>
+
+    <form>
+      <label for="fullname">👤 Nombre completo</label>
+      <input type="text" id="fullname" placeholder="Alejandra Bárcena" required />
+
+      <label for="email">📧 Correo electrónico</label>
+      <input type="email" id="email" placeholder="aleja@email.com" required />
+
+      <label for="address">🏠 Dirección</label>
+      <input type="text" id="address" placeholder="Calle Siempre Viva 123, CDMX" required />
+
+      <div class="row">
+        <div class="column">
+          <label for="city">🏙️ Ciudad</label>
+          <input type="text" id="city" placeholder="Ciudad de México" required />
+        </div>
+        <div class="column">
+          <label for="country">🌎 País</label>
+          <input type="text" id="country" placeholder="México" required />
+        </div>
+      </div>
+
+      <label for="card">💳 Número de tarjeta</label>
+      <input type="text" id="card" placeholder="1234 5678 9012 3456" required />
+
+      <div class="row">
+        <div class="column">
+          <label for="exp">📅 Expira</label>
+          <input type="month" id="exp" required />
+        </div>
+        <div class="column">
+          <label for="cvv">🔐 CVV</label>
+          <input type="password" id="cvv" placeholder="•••" required />
+        </div>
+      </div>
+
+      <button type="submit">🚀 Pagar ahora</button>
+    </form>
+  </section>
+</body>
+</html>
